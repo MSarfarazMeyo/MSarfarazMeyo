@@ -52,7 +52,7 @@
 ## 🔥 GitHub Stats
 <p align="center">
   <a href="https://github.com/MSarfarazMeyo">
-    <img src="https://github-readme-stats.vercel.app/api?username=MSarfarazMeyo&show_icons=true&theme=radical&hide_border=true" alt="Muhammad Sarfaraz's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=MSarfarazMeyo&show_icons=true&theme=radical" />
   </a>
   <br/>
   <a href="https://github.com/MSarfarazMeyo">
