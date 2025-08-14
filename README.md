@@ -55,6 +55,18 @@ I’m always open to collaborating on exciting projects. If you have an idea or 
 ---
 
 
+## 🔥 GitHub Stats
+<p align="center">
+  <a href="https://github.com/MSarfarazMeyo">
+    <img src="https://github-readme-stats.vercel.app/api?username=MSarfarazMeyo&show_icons=true&theme=radical&hide_border=true" alt="MSarfarazMeyo's GitHub stats" />
+  </a>
+  <br/>
+  <a href="https://github.com/MSarfarazMeyo">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MSarfarazMeyo&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  </a>
+</p>
 
+
+---
 
 
