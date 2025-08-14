@@ -11,19 +11,12 @@
 ## 🔹 About Me
 - 🚀 **3+ years** of experience delivering scalable and production-ready applications.
 - 🔹 Expertise in **MERN Stack**, **React Native**, **PostgreSQL**, **MongoDB**, and **Redis**.
-- 🌍 Built apps across domains like **Food Delivery**, **Social Networking**, **E-commerce**, and **Blockchain**.
+- 🌍 Built apps across domains like **Food Delivery**, **Social Networking**, **E-commerce**.
 - 📈 Passionate about writing **clean, maintainable, and optimized code**.
 - 📚 Always learning the latest tools & frameworks to stay ahead.
 
 ---
 
-## 🌟 Interests
-- **Full-Stack Web & Mobile Development**
-- **UI/UX Design & Performance Optimization**
-- **Scalable Cloud-Based Solutions**
-- **Open Source Contributions**
-
----
 
 ## 🛠️ Tech Stack
 
