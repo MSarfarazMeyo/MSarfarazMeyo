@@ -38,27 +38,17 @@
 
 ### 📡 Databases & Cloud
 - **PostgreSQL**, **MongoDB**, **Redis**
-- Cloud: **AWS**, **Azure**, **GCP**
-- Deployment: **Docker**, **Nginx**, **CI/CD Pipelines**
+- Cloud Platforms: **AWS (EC2, S3)**
+- Deployment & Hosting: **Vercel**, **Netlify**, **Railway**
+- Containerization & Server Setup: **Docker**, **Nginx**, **CI/CD Pipelines**
 
 ### 🛠️ Tools
-- **Git & GitHub**
-- **Postman**, **Insomnia**
-- **Firebase**, **Railway**, **Vercel**, **Netlify**
+- **Git & GitHub** for version control
+- API Testing: **Postman**, **Insomnia**
+- Project & Task Management: **Jira**
 
 
----
 
-## 🔥 GitHub Stats
-<p align="center">
-  <a href="https://github.com/MSarfarazMeyo">
-    <img src="https://github-readme-stats.vercel.app/api?username=MSarfarazMeyo&show_icons=true&theme=radical" />
-  </a>
-  <br/>
-  <a href="https://github.com/MSarfarazMeyo">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MSarfarazMeyo&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  </a>
-</p>
 
 ---
 
