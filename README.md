@@ -42,16 +42,6 @@
 
 
 
-
----
-
-## 📢 Let's Connect!
-I’m always open to collaborating on exciting projects. If you have an idea or just want to say hi, feel free to reach out. Let’s build something awesome together!
-
-- **Email:** [msarfaraz.meyo@gmail.com](mailto:msarfaraz.meyo@gmail.com)
-- **LinkedIn:** [muhammad-sarfaraz-2b2788250](www.linkedin.com/in/muhammad-sarfaraz-2b2788250)
-
-
 ---
 
 
