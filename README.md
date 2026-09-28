@@ -9,7 +9,7 @@
 ---
 
 ## 🔹 About Me
-- 🚀 **3+ years** of experience delivering scalable and production-ready applications.
+- 🚀 **4+ years** of experience delivering scalable and production-ready applications.
 - 🔹 Expertise in **MERN Stack**, **React Native**, **PostgreSQL**, **MongoDB**.
 - 🌍 Built apps across domains like **Food Delivery**, **Social Networking**, **E-commerce**.
 - 📈 Passionate about writing **clean, maintainable, and optimized code**.
